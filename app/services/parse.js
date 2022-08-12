@@ -43,5 +43,5 @@ export function JsonDataDisplay() {
 		)
 	})
 
-	return DisplayData
+	return <>{DisplayData}</>
 }
