@@ -1,0 +1,17 @@
+Сайт со списком всех EVM сетей.
+Next.js/React, Nest.js, PostgreSQL, Sequilize, React Query, Tailwind CSS, Chart.js, Framer motion
+
+Chainslist
+    Layout
+        Header
+            Logo
+            Buttons
+                GitLink
+                DarkMode
+                AuthForm
+    Search
+        SearchBar
+        AddChain
+        AddRPC
+    RPCList
+    
